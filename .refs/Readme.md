@@ -1,5 +1,6 @@
 ##Referencias 
-## Referencias generales
+## Referencias generales  
+
 
 Este documento contiene referencias relacionadas con el contenido general de este repositorio. Cada actividad pueden contener referencias específicas.
 
